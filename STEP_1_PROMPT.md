@@ -33,4 +33,4 @@
 
 **Task**: Based on the given scenario, generate a detailed world state following the structured format above.
 
-**Scenario**: < insert scenario here >
+**Scenario**:
